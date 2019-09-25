@@ -1,17 +1,15 @@
 package model.action;
 
-import by.epam.task01.model.action.TetrahedronAction;
-import by.epam.task01.model.idgenerator.IdGenerator;
-import by.epam.task01.model.entity.Point;
-import by.epam.task01.model.entity.Tetrahedron;
+import by.epam.task01.action.TetrahedronAction;
+import by.epam.task01.idgenerator.IdGenerator;
+import by.epam.task01.entity.Point;
+import by.epam.task01.entity.Tetrahedron;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 import java.util.ArrayList;
 import java.util.List;
-
-import static by.epam.task01.model.action.TetrahedronAction.*;
 
 public class TetrahedronActionTest {
 

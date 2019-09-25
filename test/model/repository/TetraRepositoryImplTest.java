@@ -1,9 +1,9 @@
 package model.repository;
 
-import by.epam.task01.model.entity.Point;
-import by.epam.task01.model.entity.Tetrahedron;
-import by.epam.task01.model.repository.TetraRepository;
-import by.epam.task01.model.repository.impl.TetraRepositoryImpl;
+import by.epam.task01.entity.Point;
+import by.epam.task01.entity.Tetrahedron;
+import by.epam.task01.repository.TetraRepository;
+import by.epam.task01.repository.impl.TetraRepositoryImpl;
 import org.testng.Assert;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;

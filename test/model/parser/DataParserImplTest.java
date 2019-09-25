@@ -1,8 +1,8 @@
 package model.parser;
 
-import by.epam.task01.model.entity.Point;
-import by.epam.task01.model.parser.DataParser;
-import by.epam.task01.model.validator.impl.TetrahedronValidatorImpl;
+import by.epam.task01.entity.Point;
+import by.epam.task01.parser.DataParser;
+import by.epam.task01.validator.impl.TetrahedronValidatorImpl;
 import org.testng.Assert;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 import java.util.ArrayList;
 import java.util.List;
 
-import static by.epam.task01.model.parser.DataParser.parsPoints;
+import static by.epam.task01.parser.DataParser.parsPoints;
 
 public class DataParserImplTest {
 

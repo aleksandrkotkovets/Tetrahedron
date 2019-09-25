@@ -121,13 +121,13 @@ CD=3.0
 2019-09-21 22:49:41 INFO  TetrahedronAction:103 -Method: calculateVolume
 2019-09-21 22:59:42 INFO  ReadFile:32 -Read File
 2019-09-21 22:59:42 WARN  ReadFile:39 -File:src\main\resources\shortData.txt  is not exist or empty
-2019-09-21 22:59:42 FATAL Creator:57 -by.epam.task01.model.exception.ReadDataException: File is not exist or empty - src\main\resources\shortData.txt
+2019-09-21 22:59:42 FATAL Creator:57 -ReadDataException: File is not exist or empty - src\main\resources\shortData.txt
 2019-09-21 23:03:13 INFO  ReadFile:32 -Read File
 2019-09-21 23:03:13 WARN  ReadFile:39 -File:target\shortData.txt  is not exist or empty
-2019-09-21 23:03:13 FATAL Creator:57 -by.epam.task01.model.exception.ReadDataException: File is not exist or empty - target\shortData.txt
+2019-09-21 23:03:13 FATAL Creator:57 -ReadDataException: File is not exist or empty - target\shortData.txt
 2019-09-21 23:03:36 INFO  ReadFile:32 -Read File
 2019-09-21 23:03:36 WARN  ReadFile:39 -File:..\target\shortData.txt  is not exist or empty
-2019-09-21 23:03:36 FATAL Creator:57 -by.epam.task01.model.exception.ReadDataException: File is not exist or empty - ..\target\shortData.txt
+2019-09-21 23:03:36 FATAL Creator:57 -ReadDataException: File is not exist or empty - ..\target\shortData.txt
 2019-09-21 23:04:07 INFO  ReadFile:32 -Read File
 2019-09-21 23:04:08 INFO  ReadFile:44 -File:target\shortData was successfully read
 2019-09-21 23:04:08 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData

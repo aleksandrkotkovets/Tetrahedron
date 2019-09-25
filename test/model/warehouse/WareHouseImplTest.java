@@ -1,10 +1,10 @@
 package model.warehouse;
 
-import by.epam.task01.model.entity.Point;
-import by.epam.task01.model.entity.Tetrahedron;
-import by.epam.task01.model.entity.TetrahedronCharacteristic;
-import by.epam.task01.model.warehouse.Warehouse;
-import by.epam.task01.model.warehouse.impl.WarehouseImpl;
+import by.epam.task01.entity.Point;
+import by.epam.task01.entity.Tetrahedron;
+import by.epam.task01.entity.TetrahedronCharacteristic;
+import by.epam.task01.warehouse.Warehouse;
+import by.epam.task01.warehouse.impl.WarehouseImpl;
 import org.testng.Assert;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;

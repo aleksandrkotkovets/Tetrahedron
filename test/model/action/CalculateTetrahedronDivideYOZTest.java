@@ -1,9 +1,9 @@
 package model.action;
 
-import by.epam.task01.model.action.CalculateTetrahedronDevideYOZ;
-import by.epam.task01.model.idgenerator.IdGenerator;
-import by.epam.task01.model.entity.Point;
-import by.epam.task01.model.entity.Tetrahedron;
+import by.epam.task01.action.CalculateTetrahedronDevideYOZ;
+import by.epam.task01.idgenerator.IdGenerator;
+import by.epam.task01.entity.Point;
+import by.epam.task01.entity.Tetrahedron;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;

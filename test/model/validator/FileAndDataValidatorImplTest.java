@@ -1,9 +1,9 @@
 package model.validator;
 
-import by.epam.task01.model.exception.ReadDataException;
-import by.epam.task01.model.reader.ReadFile;
-import by.epam.task01.model.reader.impl.ReadFileImpl;
-import by.epam.task01.model.validator.impl.TetrahedronValidatorImpl;
+import by.epam.task01.exception.ReadDataException;
+import by.epam.task01.reader.ReadFile;
+import by.epam.task01.reader.impl.ReadFileImpl;
+import by.epam.task01.validator.impl.TetrahedronValidatorImpl;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;

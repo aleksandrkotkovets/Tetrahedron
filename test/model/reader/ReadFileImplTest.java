@@ -1,8 +1,8 @@
 package model.reader;
 
-import by.epam.task01.model.exception.ReadDataException;
-import by.epam.task01.model.reader.ReadFile;
-import by.epam.task01.model.reader.impl.ReadFileImpl;
+import by.epam.task01.exception.ReadDataException;
+import by.epam.task01.reader.ReadFile;
+import by.epam.task01.reader.impl.ReadFileImpl;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;

@@ -1,8 +1,8 @@
 package model.creator;
 
-import by.epam.task01.model.creator.Creator;
-import by.epam.task01.model.entity.Point;
-import by.epam.task01.model.entity.Tetrahedron;
+import by.epam.task01.creator.Creator;
+import by.epam.task01.entity.Point;
+import by.epam.task01.entity.Tetrahedron;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
