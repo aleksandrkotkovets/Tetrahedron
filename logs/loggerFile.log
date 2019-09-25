@@ -1,0 +1,809 @@
+2019-09-11 10:48:43 INFO  root:28 -Read File
+2019-09-11 10:48:43 INFO  root:57 -Method: checkReadData
+2019-09-11 10:48:43 INFO  root:74 -Count of Good data = 6
+Count of Bad data = 0
+2019-09-11 10:48:43 INFO  root:71 -Method: parsPoints
+2019-09-11 10:48:43 INFO  root:80 -Method: checkCountOfGoodData
+2019-09-11 10:48:43 INFO  root:83 -Count of Good data>=4
+2019-09-11 10:48:43 INFO  root:86 -Coordinate(x,y,z):[0 1 3, 4 5 6, 7 8 9, 1 5 6, 1 2 4, 5 5 5]
+2019-09-11 10:48:43 INFO  root:86 -Coordinate(x,y,z):[0 1 3, 4 5 6, 7 8 9, 1 5 6, 1 2 4, 5 5 5]
+2019-09-11 10:48:43 INFO  root:86 -Coordinate(x,y,z):[0 1 3, 4 5 6, 7 8 9, 1 5 6, 1 2 4, 5 5 5]
+2019-09-11 10:48:43 INFO  root:86 -Coordinate(x,y,z):[0 1 3, 4 5 6, 7 8 9, 1 5 6, 1 2 4, 5 5 5]
+2019-09-11 10:48:43 INFO  root:86 -Coordinate(x,y,z):[0 1 3, 4 5 6, 7 8 9, 1 5 6, 1 2 4, 5 5 5]
+2019-09-11 10:48:43 INFO  root:86 -Coordinate(x,y,z):[0 1 3, 4 5 6, 7 8 9, 1 5 6, 1 2 4, 5 5 5]
+2019-09-11 10:48:43 INFO  root:29 -Method: findSidesLengths
+2019-09-11 10:48:43 INFO  root:65 -Sides:
+AB=6.0
+AC=12.0
+AD=5.0
+BC=5.0
+BD=3.0
+CD=7.0
+
+2019-09-11 10:48:43 INFO  root:30 -Method: calcTetrahedronSide
+2019-09-11 10:48:43 INFO  root:30 -Method: isEqualSides
+2019-09-11 10:48:43 INFO  root:37 -Sides are not equal.
+2019-09-11 10:48:43 INFO  root:35 -Sides are not equals. Return=-1.0
+2019-09-11 10:49:38 INFO  root:28 -Read File
+2019-09-11 10:49:38 INFO  root:57 -Method: checkReadData
+2019-09-11 10:49:38 INFO  root:74 -Count of Good data = 6
+Count of Bad data = 4
+2019-09-11 10:49:38 INFO  root:71 -Method: parsPoints
+2019-09-11 10:49:38 INFO  root:80 -Method: checkCountOfGoodData
+2019-09-11 10:49:38 INFO  root:83 -Count of Good data>=4
+2019-09-11 10:49:38 INFO  root:86 -Coordinate(x,y,z):[0 1 3, 4 5 6, 7 8 9, 1 5 6, 1 2 4, 5 5 5]
+2019-09-11 10:49:38 INFO  root:86 -Coordinate(x,y,z):[0 1 3, 4 5 6, 7 8 9, 1 5 6, 1 2 4, 5 5 5]
+2019-09-11 10:49:38 INFO  root:86 -Coordinate(x,y,z):[0 1 3, 4 5 6, 7 8 9, 1 5 6, 1 2 4, 5 5 5]
+2019-09-11 10:49:38 INFO  root:86 -Coordinate(x,y,z):[0 1 3, 4 5 6, 7 8 9, 1 5 6, 1 2 4, 5 5 5]
+2019-09-11 10:49:38 INFO  root:86 -Coordinate(x,y,z):[0 1 3, 4 5 6, 7 8 9, 1 5 6, 1 2 4, 5 5 5]
+2019-09-11 10:49:38 INFO  root:86 -Coordinate(x,y,z):[0 1 3, 4 5 6, 7 8 9, 1 5 6, 1 2 4, 5 5 5]
+2019-09-11 10:49:38 INFO  root:29 -Method: findSidesLengths
+2019-09-11 10:49:38 INFO  root:65 -Sides:
+AB=6.0
+AC=12.0
+AD=5.0
+BC=5.0
+BD=3.0
+CD=7.0
+
+2019-09-11 10:49:38 INFO  root:30 -Method: calcTetrahedronSide
+2019-09-11 10:49:38 INFO  root:30 -Method: isEqualSides
+2019-09-11 10:49:38 INFO  root:37 -Sides are not equal.
+2019-09-11 10:49:38 INFO  root:35 -Sides are not equals. Return=-1.0
+2019-09-11 10:58:22 INFO  WorkWithFile:28 -Read File
+2019-09-11 10:58:22 INFO  root:57 -Method: checkReadData
+2019-09-11 10:58:22 INFO  root:74 -Count of Good data = 6
+Count of Bad data = 4
+2019-09-11 10:58:22 INFO  root:71 -Method: parsPoints
+2019-09-11 10:58:22 INFO  root:80 -Method: checkCountOfGoodData
+2019-09-11 10:58:22 INFO  root:83 -Count of Good data>=4
+2019-09-11 10:58:22 INFO  root:86 -Coordinate(x,y,z):[0 1 3, 4 5 6, 7 8 9, 1 5 6, 1 2 4, 5 5 5]
+2019-09-11 10:58:22 INFO  root:86 -Coordinate(x,y,z):[0 1 3, 4 5 6, 7 8 9, 1 5 6, 1 2 4, 5 5 5]
+2019-09-11 10:58:22 INFO  root:86 -Coordinate(x,y,z):[0 1 3, 4 5 6, 7 8 9, 1 5 6, 1 2 4, 5 5 5]
+2019-09-11 10:58:22 INFO  root:86 -Coordinate(x,y,z):[0 1 3, 4 5 6, 7 8 9, 1 5 6, 1 2 4, 5 5 5]
+2019-09-11 10:58:22 INFO  root:86 -Coordinate(x,y,z):[0 1 3, 4 5 6, 7 8 9, 1 5 6, 1 2 4, 5 5 5]
+2019-09-11 10:58:22 INFO  root:86 -Coordinate(x,y,z):[0 1 3, 4 5 6, 7 8 9, 1 5 6, 1 2 4, 5 5 5]
+2019-09-11 10:58:22 INFO  root:29 -Method: findSidesLengths
+2019-09-11 10:58:22 INFO  root:65 -Sides:
+AB=6.0
+AC=12.0
+AD=5.0
+BC=5.0
+BD=3.0
+CD=7.0
+
+2019-09-11 10:58:22 INFO  root:30 -Method: calcTetrahedronSide
+2019-09-11 10:58:22 INFO  root:30 -Method: isEqualSides
+2019-09-11 10:58:22 INFO  root:37 -Sides are not equal.
+2019-09-11 10:58:22 INFO  root:35 -Sides are not equals. Return=-1.0
+2019-09-21 22:39:36 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 22:39:36 INFO  TetrahedronAction:114 -Method: calculatePerimeter
+2019-09-21 22:39:36 INFO  TetrahedronAction:109 -Method: calculatePerimeter
+2019-09-21 22:39:36 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 22:39:36 INFO  TetrahedronAction:63 -Method: calcSide
+2019-09-21 22:39:36 INFO  TetrahedronAction:70 -Method: calcSide
+2019-09-21 22:39:36 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-21 22:39:36 INFO  TetrahedronAction:92 -Method: calculateSquare
+2019-09-21 22:39:36 INFO  TetrahedronAction:103 -Method: calculateVolume
+2019-09-21 22:39:36 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-21 22:39:36 INFO  TetrahedronAction:21 -Method: findSidesLengths
+2019-09-21 22:39:36 INFO  TetrahedronAction:57 -Sides:
+AB=3.0
+AC=3.0
+AD=3.0
+BC=3.0
+BD=3.0
+CD=3.0
+
+2019-09-21 22:39:36 INFO  TetrahedronAction:21 -Method: findSidesLengths
+2019-09-21 22:39:36 INFO  TetrahedronAction:57 -Sides:
+AB=3.0
+AC=3.0
+AD=3.0
+BC=3.0
+BD=3.0
+CD=3.0
+
+2019-09-21 22:40:26 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 22:40:26 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 22:40:26 INFO  TetrahedronAction:70 -Method: calcSide
+2019-09-21 22:40:26 INFO  TetrahedronAction:103 -Method: calculateVolume
+2019-09-21 22:40:26 INFO  TetrahedronAction:103 -Method: calculateVolume
+2019-09-21 22:45:35 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 22:45:35 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 22:45:35 INFO  TetrahedronAction:70 -Method: calcSide
+2019-09-21 22:45:35 INFO  TetrahedronAction:103 -Method: calculateVolume
+2019-09-21 22:45:35 INFO  TetrahedronAction:103 -Method: calculateVolume
+2019-09-21 22:49:41 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 22:49:41 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 22:49:41 INFO  TetrahedronAction:70 -Method: calcSide
+2019-09-21 22:49:41 INFO  TetrahedronAction:103 -Method: calculateVolume
+2019-09-21 22:49:41 INFO  TetrahedronAction:103 -Method: calculateVolume
+2019-09-21 22:59:42 INFO  ReadFile:32 -Read File
+2019-09-21 22:59:42 WARN  ReadFile:39 -File:src\main\resources\shortData.txt  is not exist or empty
+2019-09-21 22:59:42 FATAL Creator:57 -by.epam.task01.model.exception.ReadDataException: File is not exist or empty - src\main\resources\shortData.txt
+2019-09-21 23:03:13 INFO  ReadFile:32 -Read File
+2019-09-21 23:03:13 WARN  ReadFile:39 -File:target\shortData.txt  is not exist or empty
+2019-09-21 23:03:13 FATAL Creator:57 -by.epam.task01.model.exception.ReadDataException: File is not exist or empty - target\shortData.txt
+2019-09-21 23:03:36 INFO  ReadFile:32 -Read File
+2019-09-21 23:03:36 WARN  ReadFile:39 -File:..\target\shortData.txt  is not exist or empty
+2019-09-21 23:03:36 FATAL Creator:57 -by.epam.task01.model.exception.ReadDataException: File is not exist or empty - ..\target\shortData.txt
+2019-09-21 23:04:07 INFO  ReadFile:32 -Read File
+2019-09-21 23:04:08 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-21 23:04:08 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-21 23:04:08 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 4
+Count of Bad reader = 8
+2019-09-21 23:04:08 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-21 23:04:08 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-21 23:04:08 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-21 23:04:08 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-21 23:04:08 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-21 23:04:08 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:04:08 INFO  Creator:85 -Tetrahedrons was created.
+2019-09-21 23:04:08 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:16:11 INFO  ReadFile:32 -Read File
+2019-09-21 23:16:11 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-21 23:16:11 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-21 23:16:11 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 6
+Count of Bad reader = 3
+2019-09-21 23:16:11 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-21 23:16:11 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 2 3, 1 5 5, 3 3 3, 3 3 3, 5 5 5, 5 8 8]
+2019-09-21 23:16:11 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 2 3, 1 5 5, 3 3 3, 3 3 3, 5 5 5, 5 8 8]
+2019-09-21 23:16:11 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 2 3, 1 5 5, 3 3 3, 3 3 3, 5 5 5, 5 8 8]
+2019-09-21 23:16:11 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 2 3, 1 5 5, 3 3 3, 3 3 3, 5 5 5, 5 8 8]
+2019-09-21 23:16:11 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 2 3, 1 5 5, 3 3 3, 3 3 3, 5 5 5, 5 8 8]
+2019-09-21 23:16:11 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 2 3, 1 5 5, 3 3 3, 3 3 3, 5 5 5, 5 8 8]
+2019-09-21 23:16:11 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:16:11 INFO  Creator:85 -Tetrahedrons was created.
+2019-09-21 23:16:11 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:20:33 INFO  ReadFile:32 -Read File
+2019-09-21 23:20:34 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-21 23:20:34 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-21 23:20:34 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 6
+Count of Bad reader = 3
+2019-09-21 23:20:34 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-21 23:20:34 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 2 3, 1 5 5, 3 3 3, 3 3 3, 5 5 5, 5 8 8]
+2019-09-21 23:20:34 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 2 3, 1 5 5, 3 3 3, 3 3 3, 5 5 5, 5 8 8]
+2019-09-21 23:20:34 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 2 3, 1 5 5, 3 3 3, 3 3 3, 5 5 5, 5 8 8]
+2019-09-21 23:20:34 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 2 3, 1 5 5, 3 3 3, 3 3 3, 5 5 5, 5 8 8]
+2019-09-21 23:20:34 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 2 3, 1 5 5, 3 3 3, 3 3 3, 5 5 5, 5 8 8]
+2019-09-21 23:20:34 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 2 3, 1 5 5, 3 3 3, 3 3 3, 5 5 5, 5 8 8]
+2019-09-21 23:20:34 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:20:34 INFO  Creator:87 -Tetrahedrons was created.
+2019-09-21 23:20:34 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:21:47 INFO  ReadFile:32 -Read File
+2019-09-21 23:21:47 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-21 23:21:47 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-21 23:21:47 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 16
+Count of Bad reader = 0
+2019-09-21 23:21:47 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-21 23:21:47 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2]
+2019-09-21 23:21:47 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2]
+2019-09-21 23:21:47 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2]
+2019-09-21 23:21:47 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2]
+2019-09-21 23:21:47 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2]
+2019-09-21 23:21:47 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2]
+2019-09-21 23:21:47 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2]
+2019-09-21 23:21:47 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2]
+2019-09-21 23:21:47 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2]
+2019-09-21 23:21:47 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2]
+2019-09-21 23:21:47 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2]
+2019-09-21 23:21:47 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2]
+2019-09-21 23:21:47 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2]
+2019-09-21 23:21:47 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2]
+2019-09-21 23:21:47 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2]
+2019-09-21 23:21:47 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2]
+2019-09-21 23:21:47 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:21:47 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:21:47 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:21:47 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:21:47 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-21 23:21:47 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:21:47 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:22:25 INFO  ReadFile:32 -Read File
+2019-09-21 23:22:25 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-21 23:22:25 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-21 23:22:25 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 17
+Count of Bad reader = 5
+2019-09-21 23:22:25 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-21 23:22:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2, 4 4 4]
+2019-09-21 23:22:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2, 4 4 4]
+2019-09-21 23:22:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2, 4 4 4]
+2019-09-21 23:22:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2, 4 4 4]
+2019-09-21 23:22:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2, 4 4 4]
+2019-09-21 23:22:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2, 4 4 4]
+2019-09-21 23:22:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2, 4 4 4]
+2019-09-21 23:22:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2, 4 4 4]
+2019-09-21 23:22:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2, 4 4 4]
+2019-09-21 23:22:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2, 4 4 4]
+2019-09-21 23:22:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2, 4 4 4]
+2019-09-21 23:22:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2, 4 4 4]
+2019-09-21 23:22:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2, 4 4 4]
+2019-09-21 23:22:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2, 4 4 4]
+2019-09-21 23:22:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2, 4 4 4]
+2019-09-21 23:22:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2, 4 4 4]
+2019-09-21 23:22:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2, 4 4 4]
+2019-09-21 23:22:25 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:22:25 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:22:25 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:22:25 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:22:25 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-21 23:22:25 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:22:25 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:24:54 INFO  ReadFile:32 -Read File
+2019-09-21 23:24:55 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-21 23:24:55 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-21 23:24:55 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 8
+Count of Bad reader = 12
+2019-09-21 23:24:55 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-21 23:24:55 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-21 23:24:55 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-21 23:24:55 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-21 23:24:55 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-21 23:24:55 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-21 23:24:55 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-21 23:24:55 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-21 23:24:55 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-21 23:24:55 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:24:55 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:24:55 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-21 23:24:55 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:24:55 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:29:54 INFO  ReadFile:32 -Read File
+2019-09-21 23:29:54 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-21 23:29:54 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-21 23:29:54 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 8
+Count of Bad reader = 12
+2019-09-21 23:29:54 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-21 23:29:54 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-21 23:29:54 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-21 23:29:54 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-21 23:29:54 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-21 23:29:54 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-21 23:29:54 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-21 23:29:54 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-21 23:29:54 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-21 23:29:54 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:29:54 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:29:54 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-21 23:29:54 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:29:54 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-21 23:50:45 INFO  ReadFile:32 -Read File
+2019-09-21 23:50:45 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-21 23:50:45 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-21 23:51:55 INFO  ReadFile:32 -Read File
+2019-09-21 23:51:55 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-21 23:51:55 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-21 23:51:55 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 0
+Count of Bad reader = 20
+2019-09-21 23:51:55 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-21 23:51:55 WARN  TetrahedronValidatorImpl:100 -Count of Good reader = 0
+Count of Bad reader = 20
+2019-09-21 23:51:55 INFO  DataParserImpl:46 -Count of good reader < 4 ;
+2019-09-21 23:51:55 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-21 23:52:49 INFO  ReadFile:32 -Read File
+2019-09-21 23:52:49 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-21 23:52:49 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-21 23:52:49 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 0
+Count of Bad reader = 20
+2019-09-21 23:52:49 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-21 23:52:49 WARN  TetrahedronValidatorImpl:100 -Count of Good reader = 0
+Count of Bad reader = 20
+2019-09-21 23:52:49 INFO  DataParserImpl:46 -Count of good reader < 4 ;
+2019-09-21 23:52:49 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-21 23:53:54 INFO  ReadFile:32 -Read File
+2019-09-21 23:53:54 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-21 23:53:54 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-21 23:53:54 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 0
+Count of Bad reader = 20
+2019-09-21 23:53:54 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-21 23:53:54 WARN  TetrahedronValidatorImpl:100 -Count of Good reader = 0
+Count of Bad reader = 20
+2019-09-21 23:53:54 INFO  DataParserImpl:46 -Count of good reader < 4 ;
+2019-09-21 23:53:54 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-21 23:57:13 INFO  ReadFile:32 -Read File
+2019-09-21 23:57:13 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-21 23:57:13 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-21 23:57:34 INFO  ReadFile:32 -Read File
+2019-09-21 23:57:34 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-21 23:57:34 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-21 23:57:43 INFO  ReadFile:32 -Read File
+2019-09-21 23:57:43 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-21 23:57:43 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-21 23:57:43 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 0
+Count of Bad reader = 20
+2019-09-21 23:57:43 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-21 23:57:43 WARN  TetrahedronValidatorImpl:100 -Count of Good reader = 0
+Count of Bad reader = 20
+2019-09-21 23:57:43 INFO  DataParserImpl:46 -Count of good reader < 4 ;
+2019-09-21 23:57:43 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-21 23:59:07 INFO  ReadFile:32 -Read File
+2019-09-21 23:59:07 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-21 23:59:07 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-21 23:59:07 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 0
+Count of Bad reader = 20
+2019-09-21 23:59:07 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-21 23:59:07 WARN  TetrahedronValidatorImpl:100 -Count of Good reader = 0
+Count of Bad reader = 20
+2019-09-21 23:59:07 INFO  DataParserImpl:46 -Count of good reader < 4 ;
+2019-09-21 23:59:07 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-21 23:59:39 INFO  ReadFile:32 -Read File
+2019-09-21 23:59:39 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-21 23:59:39 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-21 23:59:39 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 0
+Count of Bad reader = 49
+2019-09-21 23:59:39 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-21 23:59:39 WARN  TetrahedronValidatorImpl:100 -Count of Good reader = 0
+Count of Bad reader = 49
+2019-09-21 23:59:39 INFO  DataParserImpl:46 -Count of good reader < 4 ;
+2019-09-21 23:59:39 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-22 00:06:08 INFO  ReadFile:32 -Read File
+2019-09-22 00:06:08 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-22 00:06:08 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-22 00:06:08 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 0
+Count of Bad reader = 49
+2019-09-22 00:06:08 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-22 00:06:08 WARN  TetrahedronValidatorImpl:100 -Count of Good reader = 0
+Count of Bad reader = 49
+2019-09-22 00:06:08 INFO  DataParserImpl:46 -Count of good reader < 4 ;
+2019-09-22 00:06:08 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-22 00:07:05 INFO  ReadFile:32 -Read File
+2019-09-22 00:07:05 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-22 00:07:05 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-22 00:07:05 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 4
+Count of Bad reader = 45
+2019-09-22 00:07:05 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-22 00:07:05 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-22 00:07:05 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-22 00:07:05 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-22 00:07:05 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0 -1 0, 0 1 0, 0 -1 0, 0 1 0]
+2019-09-22 00:07:05 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:07:05 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-22 00:07:05 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:10:05 INFO  ReadFile:32 -Read File
+2019-09-22 00:10:06 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-22 00:10:06 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-22 00:10:06 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 0
+Count of Bad reader = 49
+2019-09-22 00:10:06 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-22 00:10:06 WARN  TetrahedronValidatorImpl:100 -Count of Good reader = 0
+Count of Bad reader = 49
+2019-09-22 00:10:06 INFO  DataParserImpl:46 -Count of good reader < 4 ;
+2019-09-22 00:10:06 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-22 00:11:53 INFO  ReadFile:32 -Read File
+2019-09-22 00:11:53 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-22 00:11:53 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-22 00:11:53 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 2
+Count of Bad reader = 1
+2019-09-22 00:11:53 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-22 00:11:53 WARN  TetrahedronValidatorImpl:100 -Count of Good reader = 2
+Count of Bad reader = 1
+2019-09-22 00:11:53 INFO  DataParserImpl:46 -Count of good reader < 4 ;
+2019-09-22 00:11:53 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-22 00:12:20 INFO  ReadFile:32 -Read File
+2019-09-22 00:12:20 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-22 00:12:20 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-22 00:12:20 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 2
+Count of Bad reader = 1
+2019-09-22 00:12:20 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-22 00:12:20 WARN  TetrahedronValidatorImpl:100 -Count of Good reader = 2
+Count of Bad reader = 1
+2019-09-22 00:12:20 INFO  DataParserImpl:46 -Count of good reader < 4 ;
+2019-09-22 00:12:20 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-22 00:13:48 INFO  ReadFile:32 -Read File
+2019-09-22 00:13:48 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-22 00:13:48 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-22 00:13:48 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 10
+Count of Bad reader = 5
+2019-09-22 00:13:48 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-22 00:14:47 INFO  ReadFile:32 -Read File
+2019-09-22 00:14:47 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-22 00:14:47 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-22 00:14:47 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 5
+Count of Bad reader = 3
+2019-09-22 00:14:47 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-22 00:15:00 INFO  ReadFile:32 -Read File
+2019-09-22 00:15:00 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-22 00:15:00 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-22 00:15:00 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 3
+Count of Bad reader = 3
+2019-09-22 00:15:00 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-22 00:15:00 WARN  TetrahedronValidatorImpl:100 -Count of Good reader = 3
+Count of Bad reader = 3
+2019-09-22 00:15:00 INFO  DataParserImpl:46 -Count of good reader < 4 ;
+2019-09-22 00:15:00 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-22 00:15:50 INFO  ReadFile:32 -Read File
+2019-09-22 00:15:50 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-22 00:15:50 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-22 00:15:50 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 1
+Count of Bad reader = 3
+2019-09-22 00:15:50 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-22 00:15:50 WARN  TetrahedronValidatorImpl:100 -Count of Good reader = 1
+Count of Bad reader = 3
+2019-09-22 00:15:50 INFO  DataParserImpl:46 -Count of good reader < 4 ;
+2019-09-22 00:15:50 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-22 00:20:25 INFO  ReadFile:32 -Read File
+2019-09-22 00:20:25 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-22 00:20:25 INFO  TetrahedronValidatorImpl:61 -Method: checkReadData
+2019-09-22 00:20:25 INFO  TetrahedronValidatorImpl:78 -Count of Good reader = 0
+Count of Bad reader = 17
+2019-09-22 00:20:25 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-22 00:20:25 WARN  TetrahedronValidatorImpl:100 -Count of Good reader = 0
+Count of Bad reader = 17
+2019-09-22 00:20:25 INFO  DataParserImpl:46 -Count of good reader < 4 ;
+2019-09-22 00:20:25 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-22 00:40:39 INFO  ReadFile:32 -Read File
+2019-09-22 00:40:39 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-22 00:40:39 INFO  TetrahedronValidatorImpl:62 -Method: checkReadData
+2019-09-22 00:40:39 INFO  TetrahedronValidatorImpl:79 -Count of Good reader = 0
+Count of Bad reader = 12
+2019-09-22 00:40:39 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-22 00:40:39 WARN  TetrahedronValidatorImpl:101 -Count of Good reader = 0
+Count of Bad reader = 12
+2019-09-22 00:40:39 INFO  DataParserImpl:46 -Count of good reader < 4 ;
+2019-09-22 00:40:39 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-22 00:41:14 INFO  ReadFile:32 -Read File
+2019-09-22 00:41:14 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-22 00:41:14 INFO  TetrahedronValidatorImpl:62 -Method: checkReadData
+2019-09-22 00:41:14 INFO  TetrahedronValidatorImpl:79 -Count of Good reader = 6
+Count of Bad reader = 6
+2019-09-22 00:41:14 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-22 00:41:14 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2]
+2019-09-22 00:41:14 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2]
+2019-09-22 00:41:14 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2]
+2019-09-22 00:41:14 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2]
+2019-09-22 00:41:14 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2]
+2019-09-22 00:41:14 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 1 1, 1 1 1, 1 1 1, 2 2 2, 2 2 2, 2 2 2]
+2019-09-22 00:41:14 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:41:14 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-22 00:41:14 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:43:25 INFO  ReadFile:32 -Read File
+2019-09-22 00:43:25 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-22 00:43:25 INFO  TetrahedronValidatorImpl:62 -Method: checkReadData
+2019-09-22 00:43:25 INFO  TetrahedronValidatorImpl:79 -Count of Good reader = 16
+Count of Bad reader = 3
+2019-09-22 00:43:25 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-22 00:43:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:43:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:43:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:43:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:43:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:43:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:43:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:43:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:43:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:43:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:43:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:43:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:43:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:43:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:43:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:43:25 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:43:25 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:43:25 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:43:25 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:43:25 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:43:25 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-22 00:43:25 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:43:25 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:45:14 INFO  ReadFile:32 -Read File
+2019-09-22 00:45:14 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-22 00:45:14 INFO  TetrahedronValidatorImpl:62 -Method: checkReadData
+2019-09-22 00:45:14 INFO  TetrahedronValidatorImpl:79 -Count of Good reader = 8
+Count of Bad reader = 6
+2019-09-22 00:45:14 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-22 00:45:14 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:45:14 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:45:14 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:45:14 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:45:14 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:45:14 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:45:14 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:45:14 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:45:14 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:45:14 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:45:14 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-22 00:45:14 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:45:14 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:46:42 INFO  ReadFile:32 -Read File
+2019-09-22 00:46:42 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-22 00:46:42 INFO  TetrahedronValidatorImpl:62 -Method: checkReadData
+2019-09-22 00:46:42 INFO  TetrahedronValidatorImpl:79 -Count of Good reader = 8
+Count of Bad reader = 6
+2019-09-22 00:46:42 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-22 00:46:42 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:46:42 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:46:42 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:46:42 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:46:42 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:46:42 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:46:42 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:46:42 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:46:42 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:46:42 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:46:42 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-22 00:46:42 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:46:42 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:47:00 INFO  ReadFile:32 -Read File
+2019-09-22 00:47:00 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-22 00:47:00 INFO  TetrahedronValidatorImpl:62 -Method: checkReadData
+2019-09-22 00:47:00 INFO  TetrahedronValidatorImpl:79 -Count of Good reader = 8
+Count of Bad reader = 6
+2019-09-22 00:47:00 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-22 00:47:00 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:47:00 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:47:00 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:47:00 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:47:00 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:47:00 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:47:00 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:47:00 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:47:00 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:47:00 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:47:00 INFO  Creator:86 -Tetrahedrons was created.
+2019-09-22 00:47:00 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:47:00 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:48:17 INFO  ReadFile:32 -Read File
+2019-09-22 00:48:17 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-22 00:48:17 INFO  TetrahedronValidatorImpl:62 -Method: checkReadData
+2019-09-22 00:48:17 INFO  TetrahedronValidatorImpl:79 -Count of Good reader = 8
+Count of Bad reader = 6
+2019-09-22 00:48:17 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-22 00:48:17 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:48:17 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:48:17 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:48:17 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:48:17 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:48:17 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:48:17 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:48:17 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:48:17 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:48:17 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:48:17 INFO  Creator:85 -Tetrahedrons was created.
+2019-09-22 00:48:17 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:48:17 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:48:30 INFO  ReadFile:32 -Read File
+2019-09-22 00:48:30 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-22 00:48:30 INFO  TetrahedronValidatorImpl:62 -Method: checkReadData
+2019-09-22 00:48:30 INFO  TetrahedronValidatorImpl:79 -Count of Good reader = 8
+Count of Bad reader = 6
+2019-09-22 00:48:30 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-22 00:48:30 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:48:30 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:48:30 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:48:30 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:48:30 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:48:30 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:48:30 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:48:30 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:48:30 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:48:30 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:48:30 INFO  Creator:85 -Tetrahedrons was created.
+2019-09-22 00:48:30 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:48:30 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:53:10 INFO  ReadFile:32 -Read File
+2019-09-22 00:53:10 INFO  ReadFile:44 -File:target\shortData was successfully read
+2019-09-22 00:53:10 INFO  TetrahedronValidatorImpl:62 -Method: checkReadData
+2019-09-22 00:53:10 INFO  TetrahedronValidatorImpl:79 -Count of Good reader = 8
+Count of Bad reader = 6
+2019-09-22 00:53:10 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-22 00:53:10 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:53:10 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:53:10 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:53:10 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:53:10 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:53:10 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:53:10 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:53:10 INFO  DataParserImpl:43 -Coordinate(x,y,z):[0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0, 0.577 0 1.634, 0 -1 0, 1.732 0 0, 0 1 0]
+2019-09-22 00:53:10 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:53:10 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:53:10 INFO  Creator:85 -Tetrahedrons was created.
+2019-09-22 00:53:10 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 00:53:10 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 01:21:49 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-22 01:21:49 WARN  TetrahedronValidatorImpl:101 -Count of Good reader = 0
+Count of Bad reader = 0
+2019-09-22 01:21:49 INFO  DataParserImpl:46 -Count of good reader < 4 ;
+2019-09-22 01:22:56 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-22 01:22:56 WARN  TetrahedronValidatorImpl:101 -Count of Good reader = 0
+Count of Bad reader = 0
+2019-09-22 01:22:56 INFO  DataParserImpl:46 -Count of good reader < 4 ;
+2019-09-22 01:27:55 INFO  DataParserImpl:26 -Method: parsPoints
+2019-09-22 01:27:55 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 2 -2, 9 2 -2, 5 8.93 -2, 5 4.31 4.532]
+2019-09-22 01:27:55 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 2 -2, 9 2 -2, 5 8.93 -2, 5 4.31 4.532]
+2019-09-22 01:27:55 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 2 -2, 9 2 -2, 5 8.93 -2, 5 4.31 4.532]
+2019-09-22 01:27:55 INFO  DataParserImpl:43 -Coordinate(x,y,z):[1 2 -2, 9 2 -2, 5 8.93 -2, 5 4.31 4.532]
+2019-09-22 01:40:30 INFO  ReadFile:32 -Read File
+2019-09-22 01:40:30 WARN  ReadFile:39 -File:resource/another.txt  is not exist or empty
+2019-09-22 01:40:30 INFO  ReadFile:32 -Read File
+2019-09-22 01:40:30 INFO  ReadFile:44 -File:resource\data.txt was successfully read
+2019-09-22 01:41:47 INFO  ReadFile:32 -Read File
+2019-09-22 01:41:47 INFO  ReadFile:44 -File:resource\data.txt was successfully read
+2019-09-22 01:41:53 INFO  ReadFile:32 -Read File
+2019-09-22 01:41:53 WARN  ReadFile:39 -File:resource/another.txt  is not exist or empty
+2019-09-22 02:02:35 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:02:35 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:02:35 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:02:35 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:02:35 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:02:35 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:02:35 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:02:35 INFO  Observer:24 -
+**********************************
+Tetrahedron, we have some changes: Tetrahedron{id=432, pointOne=Point{x=0.0, y=0.0, z=0.0}, pointTwo=Point{x=0.0, y=-1.0, z=0.0}, pointThree=Point{x=1.732, y=0.0, z=0.0}, pointFour=Point{x=0.0, y=1.0, z=0.0}, side=1.0}
+**************************************
+2019-09-22 02:02:35 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:02:35 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:02:35 INFO  TetrahedronAction:109 -Method: calculatePerimeter
+2019-09-22 02:09:55 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:09:55 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:09:55 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:09:55 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:09:55 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:09:55 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:09:55 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:09:55 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:09:55 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:09:55 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:09:55 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:09:55 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:09:55 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:09:55 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:09:55 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:09:55 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:10:42 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:10:42 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:10:42 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:10:42 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:10:42 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:10:42 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:11:24 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:11:24 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:11:24 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:11:24 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:11:24 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:11:24 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:17 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:17 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:17 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:17 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:17 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:17 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:19 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:19 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:19 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:19 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:19 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:19 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:29 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:29 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:29 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:29 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:29 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:29 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:37 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:37 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:37 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:37 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:37 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:37 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:59 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:59 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:59 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:59 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:59 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:12:59 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:13:16 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:13:16 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:13:16 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:13:16 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:13:16 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:13:16 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:13:16 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:13:16 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:13:16 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:13:16 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:13:16 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:13:16 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:13:16 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:13:16 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:13:16 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:13:16 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:13:43 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:13:43 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:13:43 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:13:43 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:13:43 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:13:43 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:13:52 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:13:52 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:13:52 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:13:52 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:13:52 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:13:52 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:14:02 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:14:02 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:14:02 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:14:02 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:14:02 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:14:02 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:14:02 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:14:02 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:14:02 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:14:02 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:14:02 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:14:02 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:14:02 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:14:02 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:14:02 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:14:02 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:14:22 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:14:22 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:14:22 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:14:22 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:14:22 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:14:22 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:14:32 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:14:32 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:14:32 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:14:32 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:14:32 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:14:32 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:15:06 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:15:06 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:15:06 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:15:06 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:15:06 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:15:06 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:18:16 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:18:16 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:18:16 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:18:16 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:18:16 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:18:16 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:29:52 INFO  ReadFile:32 -Read File
+2019-09-22 02:29:52 INFO  ReadFile:44 -File:resource\data.txt was successfully read
+2019-09-22 02:30:12 INFO  ReadFile:32 -Read File
+2019-09-22 02:30:12 INFO  ReadFile:44 -File:resource\data.txt was successfully read
+2019-09-22 02:30:30 INFO  ReadFile:32 -Read File
+2019-09-22 02:30:30 INFO  ReadFile:44 -File:resource\data.txt was successfully read
+2019-09-22 02:30:48 INFO  ReadFile:32 -Read File
+2019-09-22 02:30:48 INFO  ReadFile:44 -File:resource\data.txt was successfully read
+2019-09-22 02:31:32 INFO  ReadFile:32 -Read File
+2019-09-22 02:31:32 INFO  ReadFile:44 -File:resource\data.txt was successfully read
+2019-09-22 02:31:54 INFO  ReadFile:32 -Read File
+2019-09-22 02:31:54 INFO  ReadFile:44 -File:resource\data.txt was successfully read
+2019-09-22 02:31:56 INFO  ReadFile:32 -Read File
+2019-09-22 02:31:56 INFO  ReadFile:44 -File:resource\data.txt was successfully read
+2019-09-22 02:41:07 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:41:07 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:41:07 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:41:07 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:41:07 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:41:07 INFO  TetrahedronAction:109 -Method: calculatePerimeter
+2019-09-22 02:41:07 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:41:07 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:41:07 INFO  TetrahedronAction:109 -Method: calculatePerimeter
+2019-09-22 02:41:07 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:41:07 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:41:07 INFO  TetrahedronAction:109 -Method: calculatePerimeter
+2019-09-22 02:41:07 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:41:07 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:41:07 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:41:07 INFO  TetrahedronAction:109 -Method: calculatePerimeter
+2019-09-22 02:41:07 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:41:07 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:41:07 INFO  TetrahedronAction:109 -Method: calculatePerimeter
+2019-09-22 02:41:07 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:41:07 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:41:07 INFO  TetrahedronAction:109 -Method: calculatePerimeter
+2019-09-22 02:41:07 INFO  TetrahedronAction:79 -Method: calcSide
+2019-09-22 02:41:07 INFO  Observer:24 -
+**********************************
+Tetrahedron, we have some changes: Tetrahedron{id=432, pointOne=Point{x=0.0, y=-5.0, z=0.0}, pointTwo=Point{x=0.0, y=-1.0, z=0.0}, pointThree=Point{x=1.732, y=0.0, z=0.0}, pointFour=Point{x=0.0, y=1.0, z=0.0}, side=4.0}
+**************************************
+2019-09-22 02:41:07 INFO  TetrahedronAction:87 -Method: calculateSquare
+2019-09-22 02:41:07 INFO  TetrahedronAction:98 -Method: calculateVolume
+2019-09-22 02:41:07 INFO  TetrahedronAction:109 -Method: calculatePerimeter
+2019-09-25 11:35:25 INFO  ReadFile:32 -Read File
+2019-09-25 11:35:25 WARN  ReadFile:39 -File:resource/another.txt  is not exist or empty
